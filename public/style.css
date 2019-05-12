@@ -95,8 +95,8 @@ code {
 @media only screen and (max-width: 725px) {
   body {
     font-family:sans-serif;
-    margin-top: 10vh;
-    margin-bottom: 10vh;
+    margin-top: 15vh;
+    margin-bottom: 15vh;
     padding: 0;
     color: #222;
     background-color: #556E87;
